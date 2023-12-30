@@ -95,72 +95,89 @@
   .newsletter {
     margin-bottom: 60px;
   }
+
   .newsletter h1 {
     font-size: 30px;
   }
+
   .newsletter p {
     font-size: 14px;
   }
+
   .newsletter div {
     border: 1px solid rgba(0, 0, 0, 0.215);
     width: 430px;
     height: 40px;
   }
+
   .newsletter input {
     width: 120px;
     font-size: 14px;
   }
+
   .newsletter div button {
     width: 100px;
     height: 41px;
     font-size: 12px;
   }
 }
+
 @media (max-width:800px) {
   .newsletter {
     margin-bottom: 50px;
   }
+
   .newsletter h1 {
     font-size: 25px;
   }
+
   .newsletter p {
     font-size: 13px;
   }
+
   .newsletter div {
     border: 1px solid rgba(0, 0, 0, 0.215);
     width: 430px;
     height: 40px;
   }
+
   .newsletter input {
     width: 120px;
     font-size: 14px;
   }
+
   .newsletter div button {
     width: 100px;
     height: 41px;
     font-size: 12px;
   }
 }
+
 @media (max-width:800px) {
   .newsletter {
     margin-bottom: 30px;
   }
+
   .newsletter h1 {
     font-size: 16px;
   }
+
   .newsletter p {
     font-size: 12px;
     margin-top: -10px;
   }
+
   .newsletter div {
     border: 1px solid rgba(0, 0, 0, 0.215);
     width: 280px;
     height: 30px;
   }
+
   .newsletter input {
     width: 99px;
     font-size: 12px;
   }
+
   .newsletter div button {
     width: 91px;
     height: 31px;
